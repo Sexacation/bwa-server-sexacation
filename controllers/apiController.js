@@ -45,11 +45,11 @@ module.exports = {
       const testimonial = {
         _id: "asd1293uasdads1",
         imageUrl: "images/testimonial2.jpg",
-        name: "Happy Family",
+        name: "Happy Couple",
         rate: 4.55,
-        content: "What a great trip with my family and I should try again next time soon ...",
-        familyName: "Angga",
-        familyOccupation: "Product Designer",
+        content: "What a great trip for couple and i should go for another trip next time.",
+        familyName: "Jonas & Kelly",
+        familyOccupation: "Software Developper",
       };
 
       res.status(200).json({
@@ -78,11 +78,11 @@ module.exports = {
       const testimonial = {
         _id: "asd1293uasdads1",
         imageUrl: "images/testimonial1.jpg",
-        name: "Happy Family",
+        name: "Happy Couple",
         rate: 4.55,
-        content: "What a great trip with my family and I should try again next time soon ...",
-        familyName: "Angga",
-        familyOccupation: "Product Designer",
+        content: "What a amazing trip with my soulmate,thanks ...",
+        familyName: "Michael & Clara",
+        familyOccupation: "Ux Designer",
       };
 
       res.status(200).json({
